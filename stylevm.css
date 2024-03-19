@@ -1,0 +1,53 @@
+body{
+    margin:0px !important;
+    margin-top: 0px !important;
+    padding: 0;
+    border: 0;
+background-image: url(Designer.jpeg);
+backdrop-filter: none;
+backdrop-filter:url(Designer.jpeg);
+backdrop-filter:blur(5px);
+background-size: contain;
+}
+
+#cartao{
+    background-color: rgb(235, 208, 172);
+}
+
+#text{
+
+}
+
+header{
+
+    color:white;
+}
+
+h2{
+
+    color:white;
+    float: center;
+    width: 200px;
+}
+
+section{
+    color:white;
+}
+
+figure{
+
+    float:inline-start;
+    text-align: center;
+    background-color: black;
+    width: 320px;
+    text-align: center;
+    padding: 15px;
+    font-family: 'Comic Sans MS', cursive;
+    border: 1px solid black;
+    box-shadow: 5px 5px 3px rgba(0,0,0,0.7);
+    margin: auto;
+}
+
+footer{
+    color:white;
+}
