@@ -11,7 +11,7 @@ background-size: contain;
 }
 
 #cartao{
-    background-color: radial-gradient(circle at 120.71% 50%, #ffffd5 0, #ffffc5 16.67%, #fff8b4 33.33%, #ebd4a3 50%, #c7b292 66.67%, #a59583 83.33%, #857d76 100%);
+     background-color: rgb(235, 208, 172);
 }
 
 #text{
