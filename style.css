@@ -49,6 +49,6 @@ footer{
     color:white;
 }
 #fundo-marrom {
-  background-color: brown;
+  background-color: black; /*background-color: brown;*/
   color: white; /* para tornar o texto legível no fundo marrom*/
 }
