@@ -48,10 +48,10 @@ figure{
 footer{
     color:white;
 }
-.justificado {
+#justificado {
   text-align: justify;
 }
-.fundo-marrom {
+#fundo-marrom {
   background-color: brown;
   color: white; /* para tornar o texto legível no fundo marrom*/
 }
