@@ -11,7 +11,7 @@ background-size: contain;
 }
 
 #cartao{
-    background-image: radial-gradient(circle at 120.71% 50%, #ffffd5 0, #ffffc5 16.67%, #fff8b4 33.33%, #ebd4a3 50%, #c7b292 66.67%, #a59583 83.33%, #857d76 100%);
+    background-color: radial-gradient(circle at 120.71% 50%, #ffffd5 0, #ffffc5 16.67%, #fff8b4 33.33%, #ebd4a3 50%, #c7b292 66.67%, #a59583 83.33%, #857d76 100%);
 }
 
 #text{
@@ -24,30 +24,30 @@ header{
 }
 
 h1{
-      background-color: radial-gradient(circle at 120.71% 50%, #8f9033 0, #92872e 8.33%, #917b2a 16.67%, #8d6d27 25%, #835e24 33.33%, #764d20 41.67%, #643c1c 50%, #512c17 58.33%, #411f12 66.67%, #33150d 75%, #280d05 83.33%, #200300 91.67%, #1a0000 100%);
+      background-color: SaddleBrown;
 }
 
 h2{
-    background-color: radial-gradient(circle at 120.71% 50%, #8f9033 0, #92872e 8.33%, #917b2a 16.67%, #8d6d27 25%, #835e24 33.33%, #764d20 41.67%, #643c1c 50%, #512c17 58.33%, #411f12 66.67%, #33150d 75%, #280d05 83.33%, #200300 91.67%, #1a0000 100%);
+    background-color: SaddleBrown;
     color:white;
     float: center;
     width: 200px;
 }
 
 h3{
-    background-color: radial-gradient(circle at 120.71% 50%, #8f9033 0, #92872e 8.33%, #917b2a 16.67%, #8d6d27 25%, #835e24 33.33%, #764d20 41.67%, #643c1c 50%, #512c17 58.33%, #411f12 66.67%, #33150d 75%, #280d05 83.33%, #200300 91.67%, #1a0000 100%);
+    background-color: SaddleBrown;
 }
 
 p{
-    background-color: radial-gradient(circle at 120.71% 50%, #8f9033 0, #92872e 8.33%, #917b2a 16.67%, #8d6d27 25%, #835e24 33.33%, #764d20 41.67%, #643c1c 50%, #512c17 58.33%, #411f12 66.67%, #33150d 75%, #280d05 83.33%, #200300 91.67%, #1a0000 100%);
+    background-color: SaddleBrown;
 }
 
 a{
-    background-color: radial-gradient(circle at 120.71% 50%, #8f9033 0, #92872e 8.33%, #917b2a 16.67%, #8d6d27 25%, #835e24 33.33%, #764d20 41.67%, #643c1c 50%, #512c17 58.33%, #411f12 66.67%, #33150d 75%, #280d05 83.33%, #200300 91.67%, #1a0000 100%);
+    background-color: SaddleBrown;
 }
 
 svg{
-    background-color: radial-gradient(circle at 120.71% 50%, #8f9033 0, #92872e 8.33%, #917b2a 16.67%, #8d6d27 25%, #835e24 33.33%, #764d20 41.67%, #643c1c 50%, #512c17 58.33%, #411f12 66.67%, #33150d 75%, #280d05 83.33%, #200300 91.67%, #1a0000 100%);
+    background-color: SaddleBrown;
 }
 
 section{
