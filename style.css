@@ -23,31 +23,20 @@ header{
     color:white;
 }
 
-h1{
-      background-color: SaddleBrown;
+.box{
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%,-50%);
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 70px;
+            border-radius: 20px;
 }
 
 h2{
-    background-color: SaddleBrown;
-    color:white;
+     color:white;
     float: center;
     width: 200px;
-}
-
-h3{
-    background-color: SaddleBrown;
-}
-
-p{
-    background-color: SaddleBrown;
-}
-
-a{
-    background-color: SaddleBrown;
-}
-
-svg{
-    background-color: SaddleBrown;
 }
 
 section{
