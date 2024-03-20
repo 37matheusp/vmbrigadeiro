@@ -51,3 +51,7 @@ footer{
 .justificado {
   text-align: justify;
 }
+.fundo-marrom {
+  background-color: brown;
+  color: white; /* para tornar o texto legível no fundo marrom*/
+}
