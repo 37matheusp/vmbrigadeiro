@@ -1,0 +1,32 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0px !important;
+    margin-top: 0px !important;
+    padding: 0;
+    border: 0;
+    background-image: url(Designer1.jpeg);
+    backdrop-filter: none;
+    backdrop-filter:url(Designer1.jpeg);
+    backdrop-filter:blur(5px);
+    background-size: contain;
+    }
+
+.contact-form input{
+    width: 100%;
+    padding: 8px 0;
+    margin: 8px 0;
+}
+
+.contact-form input[type=text] {
+    height: 40px;
+}
+
+button {
+    color: black;
+    background-color: white;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
