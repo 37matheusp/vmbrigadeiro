@@ -15,11 +15,11 @@ background-size: contain;
 }
 
 #fundo-marrom{
-    backgroud: rgba(0, 0, 0, 0.75);
+    background: rgba(0, 0, 0, 0.75);
     font-size: 1.3em;
     color: whitesmoke;
     padding: 1em;
-    border-radius: 0.5em:
+    border-radius: 0.5em;
    /* background-color:black;*/
    /* color:white;*/
 }
