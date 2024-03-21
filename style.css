@@ -14,8 +14,12 @@ background-size: contain;
      background-color: rgb(235, 208, 172);
 }
 
-#text{
+#fundo-marrom {
+  background-color: black;
+  color: white;
+}
 
+#text{
 }
 
 header{
@@ -47,10 +51,4 @@ figure{
 
 footer{
     color:white;
-}
-#fundo-marrom {
-  background-color: black;
-  color: white; 
-  /* para tornar o texto legível no fundo marrom*/
-  /*background-color: brown;*/
 }
