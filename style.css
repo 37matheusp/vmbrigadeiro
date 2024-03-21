@@ -18,6 +18,14 @@ background-size: contain;
     border-radius: 0.5em;
 }
 
+#ico{
+    background-color: black;
+    font-size: 1.3em;
+    padding: 1em;
+    border-radius: 0.5em;
+   /* color:white;*/
+}
+
 #fundo-marrom{
     background: rgba(0, 0, 0, 0.75);
     font-size: 1.3em;
