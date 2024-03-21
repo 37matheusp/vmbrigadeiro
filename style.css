@@ -11,7 +11,11 @@ background-size: contain;
 }
 
 #cartao{
-     background-color: rgb(235, 208, 172);
+    background-color: rgb(235, 208, 172);
+    font-size: 1.3em;
+    color: whitesmoke;
+    padding: 1em;
+    border-radius: 0.5em;
 }
 
 #fundo-marrom{
